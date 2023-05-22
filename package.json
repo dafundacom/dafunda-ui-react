@@ -1,6 +1,6 @@
 {
   "name": "dafunda-ui-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "types": "./src/index.ts",
   "author": "Dafunda Dev Team <dev@dafunda.io>",
   "homepage": "https://github.com/dafundacom/dafunda-ui-react#readme",
