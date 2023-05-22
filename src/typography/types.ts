@@ -1,0 +1,10 @@
+export type SizesProps =
+  | "4xl"
+  | "3xl"
+  | "2xl"
+  | "xl"
+  | "lg"
+  | "base"
+  | "md"
+  | "sm"
+  | "xs"
