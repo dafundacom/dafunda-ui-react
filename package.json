@@ -26,7 +26,7 @@
     "clean:build": "rimraf build dist",
     "lint": "eslint *.ts*",
     "format": "prettier --write \"**/*.{ts,tsx,js,jsx,css,md,mdx}\"",
-    "release": "changeset publish"
+    "release": "bumpp --tag --commit --push"
   },
   "devDependencies": {
     "@types/node": "^20.2.4",
