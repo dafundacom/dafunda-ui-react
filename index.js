@@ -1,3 +1,3 @@
 "use client"
 
-export * from "./dist"
+export * from "./dist/index.js"
