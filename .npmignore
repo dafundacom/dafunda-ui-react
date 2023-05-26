@@ -1,0 +1,7 @@
+src/
+.eslintignore
+.eslintrc.js
+.prettierignore
+.prettierrc
+tsconfig.json
+tsup.config.ts
