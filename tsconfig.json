@@ -1,9 +1,7 @@
 {
-  "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "React",
   "compilerOptions": {
-    "target": "esnext",
-    "lib": ["es5", "es6", "esnext", "dom", "dom.iterable"],
+    "target": "ESNext",
+    "lib": ["es6", "es7", "esnext", "dom"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -27,7 +25,7 @@
     "strictPropertyInitialization": true,
     "allowSyntheticDefaultImports": true,
     "downlevelIteration": true,
-    "jsx": "preserve",
+    "jsx": "react",
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
